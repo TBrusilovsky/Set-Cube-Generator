@@ -15,7 +15,7 @@ public class SetRules {
         this.set = set;
         switch (this.set)
         {
-            case "KND":
+            case "NEO":
                 commons = 9;
                 rares = 1;
                 uncommons = 3;

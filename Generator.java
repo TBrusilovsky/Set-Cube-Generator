@@ -6,5 +6,9 @@ public class Generator
     {
         String set = args[0];
         SetRules rules = new SetRules(set);
+        Set theSet = new Set(set);
+
+        theSet.print();
+
     }
 }
